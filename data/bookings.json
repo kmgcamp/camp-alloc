@@ -72,5 +72,21 @@
         "isOn": false
       }
     ]
+  },
+  {
+    "id": "1776260769119",
+    "roomId": 3,
+    "name": "Graham",
+    "company": "BLF",
+    "role": "Supervisor",
+    "checkin": "2026-04-17",
+    "checkout": "2026-04-20",
+    "clean": true,
+    "repair": false,
+    "notes": "",
+    "color": 2,
+    "rosterPattern": "",
+    "offweek": "held",
+    "segments": []
   }
 ]
