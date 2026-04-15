@@ -88,5 +88,21 @@
     "rosterPattern": "",
     "offweek": "held",
     "segments": []
+  },
+  {
+    "id": "1776260797371",
+    "roomId": 4,
+    "name": "Nathan",
+    "company": "BLF",
+    "role": "Boillie",
+    "checkin": "2026-04-17",
+    "checkout": "2026-04-20",
+    "clean": true,
+    "repair": false,
+    "notes": "",
+    "color": 3,
+    "rosterPattern": "",
+    "offweek": "held",
+    "segments": []
   }
 ]
