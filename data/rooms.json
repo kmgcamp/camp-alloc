@@ -62,7 +62,7 @@
   {
     "id": 11,
     "num": "R11",
-    "clean": true,
+    "clean": false,
     "repair": false
   },
   {
