@@ -63,7 +63,7 @@
     "id": 11,
     "num": "R11",
     "clean": true,
-    "repair": false
+    "repair": true
   },
   {
     "id": 12,
