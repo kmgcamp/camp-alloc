@@ -1,12 +1,12 @@
 [
   {
     "id": "1776260701815",
-    "roomId": 1,
+    "roomId": 2,
     "name": "Jennifer",
     "company": "KMG",
     "role": "Camp Manager",
-    "checkin": "2026-04-14",
-    "checkout": "2026-06-08",
+    "checkin": "2026-04-25",
+    "checkout": "2026-06-19",
     "clean": true,
     "repair": false,
     "notes": "",
@@ -15,23 +15,23 @@
     "offweek": "held",
     "segments": [
       {
-        "checkin": "2026-04-14",
-        "checkout": "2026-04-27",
+        "checkin": "2026-04-25",
+        "checkout": "2026-05-08",
         "isOn": true
       },
       {
-        "checkin": "2026-04-28",
-        "checkout": "2026-05-11",
+        "checkin": "2026-05-09",
+        "checkout": "2026-05-22",
         "isOn": false
       },
       {
-        "checkin": "2026-05-12",
-        "checkout": "2026-05-25",
+        "checkin": "2026-05-23",
+        "checkout": "2026-06-05",
         "isOn": true
       },
       {
-        "checkin": "2026-05-26",
-        "checkout": "2026-06-08",
+        "checkin": "2026-06-06",
+        "checkout": "2026-06-19",
         "isOn": false
       }
     ]
