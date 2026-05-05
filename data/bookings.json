@@ -5,8 +5,8 @@
     "name": "Jennifer",
     "company": "KMG",
     "role": "Camp Manager",
-    "checkin": "2026-05-16",
-    "checkout": "2026-07-10",
+    "checkin": "2026-05-15",
+    "checkout": "2026-07-09",
     "clean": true,
     "repair": false,
     "notes": "",
@@ -15,23 +15,23 @@
     "offweek": "held",
     "segments": [
       {
-        "checkin": "2026-05-16",
-        "checkout": "2026-05-29",
+        "checkin": "2026-05-15",
+        "checkout": "2026-05-28",
         "isOn": true
       },
       {
-        "checkin": "2026-05-30",
-        "checkout": "2026-06-12",
+        "checkin": "2026-05-29",
+        "checkout": "2026-06-11",
         "isOn": false
       },
       {
-        "checkin": "2026-06-13",
-        "checkout": "2026-06-26",
+        "checkin": "2026-06-12",
+        "checkout": "2026-06-25",
         "isOn": true
       },
       {
-        "checkin": "2026-06-27",
-        "checkout": "2026-07-10",
+        "checkin": "2026-06-26",
+        "checkout": "2026-07-09",
         "isOn": false
       }
     ]
