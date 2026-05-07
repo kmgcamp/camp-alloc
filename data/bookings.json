@@ -127,8 +127,8 @@
     "name": "Adam",
     "company": "BLF",
     "role": "Supervisor",
-    "checkin": "2026-04-17",
-    "checkout": "2026-05-28",
+    "checkin": "2026-05-10",
+    "checkout": "2026-06-20",
     "clean": true,
     "repair": false,
     "notes": "",
@@ -137,23 +137,23 @@
     "offweek": "held",
     "segments": [
       {
-        "checkin": "2026-04-17",
-        "checkout": "2026-04-30",
+        "checkin": "2026-05-10",
+        "checkout": "2026-05-23",
         "isOn": true
       },
       {
-        "checkin": "2026-05-01",
-        "checkout": "2026-05-07",
+        "checkin": "2026-05-24",
+        "checkout": "2026-05-30",
         "isOn": false
       },
       {
-        "checkin": "2026-05-08",
-        "checkout": "2026-05-21",
+        "checkin": "2026-05-31",
+        "checkout": "2026-06-13",
         "isOn": true
       },
       {
-        "checkin": "2026-05-22",
-        "checkout": "2026-05-28",
+        "checkin": "2026-06-14",
+        "checkout": "2026-06-20",
         "isOn": false
       }
     ]
